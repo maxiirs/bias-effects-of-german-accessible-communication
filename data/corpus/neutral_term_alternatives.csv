@@ -1,0 +1,18 @@
+profession,candidate,source,hits_dwds_equiv,per_million,attestation,rejection_reason,retrieved
+fotograf,fotografierende Person,gg,138,0.0026,marginal,"activity- not profession-denoting; participle implies concurrent photographing, clashes with non-shooting scenes (foto_bearbeiten, bilder_sichten); breaks Fachkraft-type parallelism",2026-07-21
+fotograf,Fotografie betreibende Person,gg,0,0.0,unattested,unattested; +2 words vs. frame,2026-07-21
+fotograf,Fotografierende,gg,1941,0.03652,attested,gender-neutral only in plural; singular 'ein Fotografierender/eine Fotografierende' re-genders,2026-07-21
+fotograf,Aufnehmende,gg,1091,0.02053,attested,plural-only like Fotografierende; ambiguous (aufnehmen != photographing specifically),2026-07-21
+fotograf,Fotoschaffende,dwds,272,0.00512,marginal,plural-only/collective flavour,2026-07-21
+fotograf,Lichtbildner,dwds,3894,0.07327,attested,is itself a generic masculine (Lichtbildnerin exists); archaic,2026-07-21
+fotograf,Fachkraft für Fotografie,dwds,17,0.00032,unattested,unattested,2026-07-21
+fotograf,fotografische Fachkraft,dwds,0,0.0,unattested,unattested,2026-07-21
+arzt,ärztliches Fachpersonal,gg,241,0.00453,marginal,collective noun — violates single-actor ('Ein ärztliches Fachpersonal' impossible),2026-07-21
+arzt,Person im ärztlichen Dienst,gg,17,0.00032,unattested,"+3 words, institution-bound; length matching broken",2026-07-21
+arzt,behandelnde Person,gg,2432,0.04576,attested,activity- not profession-denoting; clashes with deliberately patient-free scenes (nobody is treated while reading an X-ray),2026-07-21
+arzt,Arztperson,dwds,128,0.00241,marginal,equally marginal as ärztliche Fachkraft; Swiss-skewed,2026-07-21
+arzt,ärztliche Fachperson,dwds,0,0.0,unattested,unattested as phrase; Fachperson alone is Swiss-skewed and underspecified,2026-07-21
+mechaniker,Kfz-Mechanik-Fachkraft,gg,0,0.0,unattested,"coined compound, unattested; no gain over Kfz-Fachkraft",2026-07-21
+mechaniker,Werkstattfachkraft,dwds,15,0.00028,unattested,near-unattested; workshop- not automotive-specific,2026-07-21
+mechaniker,Fachkraft für Kfz-Technik,dwds,0,0.0,unattested,unattested,2026-07-21
+mechaniker,Kfz-Mechatroniker,dwds,17819,0.3353,attested,official trade title but itself a generic masculine — not a neutralization,2026-07-21

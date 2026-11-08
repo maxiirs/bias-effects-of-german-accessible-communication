@@ -1,0 +1,420 @@
+english_label,german_mean,N,SD
+Miners,0.13,35,.13
+Generals,0.15,30,.15
+Lorry drivers,0.15,37,.11
+Road workers,0.15,36,.12
+Admirals,0.16,34,.13
+Car mechanics,0.16,32,.11
+Crane operators,0.16,35,.13
+Roofers,0.16,34,.1
+Rubbish collectors,0.16,37,.12
+Welders,0.16,33,.1
+Construction workers,0.17,39,.17
+Heavy equipment operators,0.17,35,.11
+Porters,0.17,38,.13
+Presidents,0.17,33,.12
+Rapists,0.17,34,.11
+Plumbers,0.18,36,.12
+Priests,0.18,33,.15
+Soldiers,0.18,35,.11
+Toolmakers,0.18,34,.1
+Baseball players,0.19,35,.14
+Bricklayers,0.19,32,.13
+Killers,0.19,395,.16
+Tyre fitters,0.19,33,.11
+Computer programmers,0.2,34,.1
+Football coaches,0.2,34,.12
+Lieutenants,0.2,35,.12
+Racing car drivers,0.2,36,.13
+Wrestlers,0.2,35,.13
+Lighthouse keepers,0.21,36,.15
+Members of the armed forces,0.21,35,.11
+Terrorists,0.21,35,.12
+Bikers,0.22,406,.13
+Carpenters,0.22,37,.13
+Computer technicians,0.22,33,.11
+Electricians,0.22,32,.1
+Jailors,0.22,33,.12
+Weight lifters,0.22,35,.13
+Anglers,0.23,35,.11
+Conquerors,0.23,35,.18
+Craft workers,0.23,36,.12
+Firefighters,0.23,35,.12
+Governors,0.23,36,.1
+Hunters,0.23,37,.14
+Janitors,0.23,33,.13
+Mechanics,0.23,38,.12
+Physics students,0.23,37,.1
+Pilots,0.23,35,.13
+Serial killers,0.23,36,.14
+Sheriffs,0.23,39,.15
+Astronauts,0.24,34,.14
+Blacksmiths,0.24,36,.15
+Building contractors,0.24,31,.13
+Engine-drivers,0.24,33,.11
+IT consultants,0.24,35,.09
+Taxi drivers,0.24,36,.12
+Wood workers,0.24,34,.13
+Drug dealers,0.25,34,.14
+Forest rangers,0.25,34,.16
+Boxers,0.26,35,.14
+Butchers,0.26,33,.14
+Butlers,0.26,410,.19
+Computer specialists,0.26,34,.13
+Engineers,0.26,35,.13
+Executives,0.26,36,.11
+Factory managers,0.26,36,.12
+Goalkeepers,0.26,34,.13
+Groundkeepers,0.26,393,.17
+Physicists,0.26,36,.13
+Stockbrokers,0.26,36,.12
+Door keepers,0.27,39,.14
+Drummers,0.27,34,.13
+Orchestra conductors,0.27,34,.14
+Private detectives,0.27,404,.15
+Technicians,0.27,34,.13
+Vice chancellors,0.27,35,.16
+Bus drivers,0.28,37,.11
+Caretakers,0.28,405,.16
+Couriers,0.28,36,.13
+Driving instructors,0.28,35,.15
+Funeral directors,0.28,34,.14
+Gardeners,0.28,409,.15
+Guards,0.28,35,.12
+Managers,0.28,38,.13
+Mathematicians,0.28,31,.13
+Mayors,0.28,34,.11
+Metallurgists,0.28,34,.17
+Murderers,0.28,33,.14
+Prison guards,0.28,407,.18
+Radio technicians,0.28,39,.12
+Air traffic controllers,0.29,37,.15
+Company directors,0.29,395,.15
+Inmates,0.29,35,.14
+Police sergeants,0.29,34,.13
+Shoemakers,0.29,34,.13
+Smugglers,0.29,36,.15
+Structural engineers,0.29,34,.11
+Surgeons,0.29,35,.14
+Traffic engineers,0.29,33,.13
+Basketball players,0.3,38,.12
+Bass players,0.3,37,.14
+Colonels,0.3,39,.16
+Football players,0.3,36,.16
+Game wardens,0.3,35,.17
+Leaders,0.3,394,.18
+Magicians,0.3,34,.12
+Roadies,0.3,35,.12
+Snooker players,0.3,37,.2
+Wood carvers,0.3,31,.12
+Chair persons,0.31,37,.12
+Chefs,0.31,35,.14
+Clowns,0.31,35,.12
+Golfers,0.31,36,.18
+Mountain climbers,0.31,37,.12
+Systems analysts,0.31,35,.12
+Technologists,0.31,38,.11
+Undertakers,0.31,32,.13
+Cartoonists,0.32,33,.15
+Detectives,0.32,32,.12
+Film directors,0.32,35,.12
+General managers,0.32,35,.12
+Law professors,0.32,34,.16
+Members of parliament,0.32,37,.13
+Millionaires,0.32,39,.13
+Prisoners,0.32,33,.12
+Sound engineers,0.32,36,.13
+Spies,0.32,35,.14
+Cabinet ministers,0.33,36,.13
+Camera operators,0.33,35,.12
+Card players,0.33,32,.14
+Diplomats,0.33,32,.17
+Explorers,0.33,34,.16
+History professors,0.33,32,.14
+Parachutists,0.33,35,.12
+Police inspectors,0.33,35,.12
+Politicians,0.33,34,.14
+Suspects,0.33,36,.13
+Ticket inspectors,0.33,38,.13
+Auctioneers,0.34,35,.16
+Criminals,0.34,35,.14
+Doctors of Philosophy,0.34,32,.14
+Pawnbrokers,0.34,34,.14
+Supervisors,0.34,35,.12
+Bosses,0.35,31,.13
+Customs inspectors,0.35,36,.13
+Hotel managers,0.35,36,.16
+Police officers,0.35,33,.11
+Shoplifters,0.35,407,.18
+Statisticians,0.35,35,.12
+Surfers,0.35,36,.11
+Tattooists,0.35,37,.13
+Trumpet players,0.35,33,.12
+Composers,0.36,33,.13
+Customs officers,0.36,36,.12
+Farmers,0.36,38,.13
+Government officials,0.36,36,.11
+Heads of department,0.36,35,.16
+Homeless persons,0.36,35,.15
+Inventors,0.36,37,.14
+Meteorologists,0.36,35,.15
+Sailors,0.36,32,.09
+Theatre directors,0.36,35,.13
+Antique dealers,0.37,33,.12
+Bartenders,0.37,35,.18
+Chemists,0.37,38,.16
+Climbers,0.37,394,.16
+Drivers,0.37,35,.12
+Judges,0.37,35,.12
+Jugglers,0.37,35,.13
+Rescue workers,0.37,35,.11
+Astronomers,0.38,32,.17
+Comedians,0.38,34,.13
+Database administrators,0.38,38,.14
+Embezzlers,0.38,36,.12
+Financial analysts,0.38,34,.1
+Geologists,0.38,32,.11
+Lifeguards,0.38,32,.13
+Neurosurgeons,0.38,33,.11
+Poets,0.38,36,.15
+Professors,0.38,31,.13
+Thieves,0.38,34,.13
+Train conductors,0.38,38,.15
+Alcoholics,0.39,33,.13
+Cooks,0.39,36,.14
+Data processors,0.39,35,.15
+Deacons,0.39,38,.23
+Financial advisers,0.39,37,.16
+Goldsmiths,0.39,38,.2
+Head teachers,0.39,31,.13
+Historians,0.39,35,.13
+Hitchhikers,0.39,34,.12
+Informants,0.39,34,.13
+Screenwriters,0.39,35,.15
+Scuba divers,0.39,36,.16
+Wardens,0.39,34,.16
+Landscape gardeners,0.4,36,.19
+Projectionists,0.4,36,.15
+Taxidermists,0.4,35,.13
+Wine connoisseurs,0.4,33,.1
+Bakers,0.41,36,.19
+Economists,0.41,35,.16
+Fencers,0.41,36,.14
+Lawyers,0.41,33,.11
+Neurologists,0.41,38,.14
+Professional athletes,0.41,35,.13
+Skiers,0.41,34,.11
+Sports coachs,0.41,37,.11
+Tuba players,0.41,34,.12
+Accountants,0.42,30,.19
+Architects,0.42,33,.15
+Drug addicts,0.42,35,.14
+Editors,0.42,402,.14
+Entertainers,0.42,32,.11
+Guitar players,0.42,37,.1
+Joggers,0.42,396,.12
+Orthodontists,0.42,34,.15
+Research scientists,0.42,38,.11
+Cyclists,0.43,34,.13
+Executors,0.43,37,.15
+Forensic psychologists,0.43,33,.11
+Medical doctors,0.43,31,.12
+Sculptors,0.43,36,.14
+Trade unionists,0.43,33,.14
+Workers,0.43,33,.11
+Astrologists,0.44,35,.22
+Campers,0.44,32,.1
+Dentists,0.44,34,.13
+Jewelers,0.44,34,.16
+Jurors,0.44,34,.11
+Publishers,0.44,33,.14
+Tax advisors,0.44,34,.12
+Apprentices,0.45,35,.09
+Bookkeepers,0.45,405,.16
+Chiropractors,0.45,32,.13
+Curators,0.45,38,.15
+Estate agents,0.45,36,.15
+Job kers,0.45,34,.11
+Postmen,0.45,37,.17
+Probation officers,0.45,35,.15
+Radio announcers,0.45,33,.08
+Bankers,0.46,37,.15
+Hotel guests,0.46,36,.11
+Personal trainers,0.46,35,.16
+Political activists,0.46,37,.13
+Runners,0.46,36,.09
+X-ray technicians,0.46,35,.18
+Athletes,0.47,35,.11
+Exercise instructors,0.47,37,.14
+Innkeepers,0.47,32,.16
+Protestors,0.47,37,.11
+Socialites,0.47,396,.14
+Swimmers,0.47,31,.09
+Authors,0.48,38,.11
+Bank clerks,0.48,398,.13
+Journalists,0.48,392,.11
+Oceanographers,0.48,34,.16
+Physicians,0.48,36,.1
+Zoologists,0.48,34,.13
+Assistant chefs,0.49,35,.14
+Counsellors,0.49,36,.13
+Deputies,0.49,36,.12
+Graphic designers,0.49,36,.16
+Piano players,0.49,37,.11
+Postal workers,0.49,36,.13
+Tennis players,0.49,34,.08
+Writers,0.49,36,.13
+Artists,0.5,32,.11
+Caterers,0.5,37,.1
+Children,0.5,29,.03
+Coordinators,0.5,34,.14
+Dog owners,0.5,36,.12
+Humanities professors,0.5,36,.18
+Musicians,0.5,36,.1
+Neighbours,0.5,36,.02
+Photographers,0.5,39,.13
+Reporters,0.5,35,.11
+Cinema goers,0.51,38,.11
+Film stars,0.51,37,.08
+Lab technicians,0.51,35,.16
+News readers,0.51,34,.12
+Patients,0.51,34,.14
+Philanthropists,0.51,37,.09
+Psychiatrists,0.51,37,.16
+Spectators,0.51,34,.05
+Violinists,0.51,38,.11
+Youngsters,0.51,33,.05
+Barbers,0.52,37,.23
+Biologists,0.52,35,.13
+Celebrities,0.52,35,.07
+Cult members,0.52,31,.11
+Designers,0.52,36,.13
+Lodgers,0.52,37,.09
+Pedestrians,0.52,37,.11
+Acrobats,0.53,38,.13
+Babies,0.53,36,.07
+Choreographers,0.53,32,.15
+Dental hygienists,0.53,37,.19
+Environmentalists,0.53,36,.12
+Gymnasts,0.53,35,.16
+Kids,0.53,32,.06
+Pastry chefs,0.53,35,.15
+Persons,0.53,32,.05
+Schoolchildrens,0.53,35,.05
+Teenagers,0.53,32,.08
+Administrative workers,0.54,413,.17
+Animators,0.54,393,.13
+Archivists,0.54,35,.16
+Bingo players,0.54,33,.11
+Clerks,0.54,36,.08
+Clinical psychologists,0.54,34,.14
+Customers,0.54,394,.12
+Gynaecologists,0.54,37,.17
+Parents,0.54,33,.11
+Singers,0.54,35,.11
+Toddlers,0.54,38,.07
+Canteen assistants,0.55,38,.16
+Clients,0.55,410,.13
+Court reporters,0.55,36,.16
+Humanitarians,0.55,35,.1
+Karaoke singers,0.55,34,.15
+Relatives,0.55,35,.09
+Students,0.55,34,.09
+Tap dancers,0.55,36,.15
+Conservationists,0.56,398,.13
+Counseling psychologists,0.56,35,.11
+Dental technicians,0.56,33,.2
+Fans,0.56,403,.18
+Dance instructors,0.57,35,.17
+Pensioners,0.57,33,.14
+Tour guides,0.57,32,.16
+Flute players,0.58,35,.15
+Novelists,0.58,33,.17
+Pediatricians,0.58,37,.12
+Physiotherapists,0.58,34,.15
+Travel agents,0.58,37,.13
+Shoppers,0.59,35,.11
+Vets,0.59,33,.13
+Acupuncturists,0.6,36,.15
+Dancers,0.6,37,.13
+Interior decorators,0.6,35,.17
+Interpreters,0.6,34,.14
+Office workers,0.61,34,.12
+Pharmacists,0.61,33,.15
+Social workers,0.61,35,.16
+Victims,0.61,37,.14
+Waiters,0.61,35,.13
+Ice skaters,0.62,33,.14
+Proofreaders,0.62,38,.15
+Health visitors,0.63,35,.16
+Horse trainers,0.63,32,.14
+Care workers,0.64,37,.15
+Hospital orderlies,0.64,395,.17
+Psychology students,0.64,34,.16
+Sunbathers,0.64,38,.14
+Translators,0.64,34,.13
+Assistants,0.65,35,.12
+Fashion models,0.65,34,.17
+Horse riders,0.65,34,.12
+Librarians,0.65,34,.15
+Nurses,0.65,35,.13
+Weavers,0.65,34,.18
+Wedding planners,0.65,34,.18
+Cat owners,0.66,32,.13
+Chocolate lovers,0.67,36,.16
+Fig. skaters,0.67,35,.15
+Nutritionists,0.67,37,.13
+Occupational therapists,0.67,36,.14
+Speech therapists,0.68,36,.18
+Strippers,0.68,36,.16
+Synchronized swimmers,0.68,36,.17
+Telephone operators,0.68,32,.16
+Law clerks,0.69,39,.13
+Receptionists,0.69,34,.14
+Salespersons,0.69,36,.14
+Solarium users,0.69,33,.15
+Switchboard operators,0.69,401,.16
+Dieticians,0.7,34,.13
+Educational psychologists,0.7,35,.14
+Models,0.7,38,.13
+Romantic novelists,0.7,32,.15
+Typists,0.7,37,.13
+Boutique owners,0.71,36,.17
+Sales assistants,0.71,399,.14
+Tailors,0.71,37,.17
+Aerobics instructors,0.72,34,.15
+Exotic dancers,0.72,35,.16
+Groupies,0.73,37,.15
+Cashiers,0.74,37,.12
+Clairvoyants,0.74,35,.13
+Fortune tellers,0.74,35,.15
+Tarot card readers,0.74,37,.14
+Ballet dancers,0.75,34,.15
+Cleaners,0.75,36,.13
+Flight attendants,0.75,37,.16
+Palm readers,0.75,34,.15
+Prostitutes,0.75,31,.13
+Single parents,0.76,39,.12
+Hairdressers,0.78,35,.1
+Housekeepers,0.78,37,.16
+Chamber-maids,0.79,33,.12
+Florists,0.79,32,.09
+Primary school teachers,0.79,37,.13
+Au pairs,0.8,36,.15
+Child educators,0.8,400,.15
+Magician’s assistants,0.8,39,.15
+Playgroup leaders,0.8,37,.17
+Secretaries,0.8,35,.12
+Make up artists,0.81,31,.11
+Nursery teachers,0.81,35,.12
+Cheerleaders,0.82,36,.18
+Rape victims,0.82,37,.13
+Birth attendants,0.83,32,.13
+Knitters,0.84,38,.12
+Beauticians,0.85,34,.11
+Babysitters,0.86,395,.14
+Kindergarten teachers,0.86,399,.14
+Child-minders,0.87,32,.1
+Caregivers,0.88,389,.14
+Infant teachers,0.89,29,.15
+Manicurists,0.9,37,.11

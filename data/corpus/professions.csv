@@ -1,0 +1,7 @@
+profession,stereotype_direction,stereotype_value_de,generic_masc,neutral_term,pair_form,typographical,qa_flag,onet_soc,onet_title
+mechaniker,male,0.16,Ein Kfz-Mechaniker,Eine Kfz-Fachkraft,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,Ein*e Kfz-Mechaniker*in,neutral_term_marginal,49-3023.00,Automotive Service Technicians and Mechanics
+elektriker,male,0.22,Ein Elektriker,Eine Elektrofachkraft,Eine Elektrikerin oder ein Elektriker,Ein*e Elektriker*in,,47-2111.00,Electricians
+reinigungskraft,female,0.75,Ein Raumpfleger,Eine Reinigungskraft,Eine Raumpflegerin oder ein Raumpfleger,Ein*e Raumpfleger*in,,37-2012.00,Maids and Housekeeping Cleaners
+florist,female,0.79,Ein Florist,Eine Blumenfachkraft,Eine Floristin oder ein Florist,Ein*e Florist*in,neutral_term_unattested,27-1023.00,Floral Designers
+baecker,contested,0.41,Ein Bäcker,Eine Bäckereifachkraft,Eine Bäckerin oder ein Bäcker,Ein*e Bäcker*in,neutral_term_unattested,51-3011.00,Bakers
+fotograf,contested,0.50,Ein Fotograf,Eine Fotofachkraft,Eine Fotografin oder ein Fotograf,Ein*e Fotograf*in,neutral_term_unattested,27-4021.00,Photographers

@@ -1,0 +1,637 @@
+profession,condition,variety,scene_label,mention_index,actor_phrase,n_tokens,token_pieces,template_offset,truncated
+mechaniker,generic_masc,sd,bremse_reparieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,bremse_reparieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,bremse_reparieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,bremse_reparieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,sd,bremse_reparieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,sd,bremse_reparieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,sd,achse_ausrichten,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,achse_ausrichten,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,achse_ausrichten,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,achse_ausrichten,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,sd,achse_ausrichten,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,sd,achse_ausrichten,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,sd,motor_diagnostizieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,motor_diagnostizieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,motor_diagnostizieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,motor_diagnostizieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,sd,motor_diagnostizieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,sd,motor_diagnostizieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,sd,fahrzeug_inspizieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,fahrzeug_inspizieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,fahrzeug_inspizieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,fahrzeug_inspizieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,sd,fahrzeug_inspizieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,sd,fahrzeug_inspizieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,sd,bremssystem_einstellen,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,bremssystem_einstellen,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,bremssystem_einstellen,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,bremssystem_einstellen,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,sd,bremssystem_einstellen,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,sd,bremssystem_einstellen,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,sd,unterboden_inspizieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,unterboden_inspizieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,unterboden_inspizieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,unterboden_inspizieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,sd,unterboden_inspizieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,sd,unterboden_inspizieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,sd,low_context,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,sd,low_context,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,sd,low_context,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,sd,low_context,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+elektriker,generic_masc,sd,kabel_verlegen,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,kabel_verlegen,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,kabel_verlegen,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,kabel_verlegen,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,sd,kabel_verlegen,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,sd,kabel_verlegen,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,sd,schalter_montieren,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,schalter_montieren,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,schalter_montieren,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,schalter_montieren,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,sd,schalter_montieren,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,sd,schalter_montieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,sd,schaltschrank_verdrahten,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,schaltschrank_verdrahten,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,schaltschrank_verdrahten,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,schaltschrank_verdrahten,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,sd,schaltschrank_verdrahten,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,sd,schaltschrank_verdrahten,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,sd,stromkreis_messen,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,stromkreis_messen,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,stromkreis_messen,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,stromkreis_messen,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,sd,stromkreis_messen,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,sd,stromkreis_messen,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,sd,steckdose_reparieren,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,steckdose_reparieren,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,steckdose_reparieren,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,steckdose_reparieren,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,sd,steckdose_reparieren,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,sd,steckdose_reparieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,sd,system_warten,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,system_warten,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,system_warten,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,system_warten,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,sd,system_warten,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,sd,system_warten,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,sd,low_context,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,sd,low_context,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,sd,low_context,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,sd,low_context,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+reinigungskraft,generic_masc,sd,boden_wischen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,boden_wischen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,boden_wischen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,boden_wischen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,sd,boden_wischen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,female_explicit,sd,boden_wischen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,generic_masc,sd,muell_leeren,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,muell_leeren,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,muell_leeren,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,muell_leeren,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,sd,muell_leeren,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,female_explicit,sd,muell_leeren,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,generic_masc,sd,fenster_putzen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,fenster_putzen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,fenster_putzen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,fenster_putzen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,sd,fenster_putzen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,female_explicit,sd,fenster_putzen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,generic_masc,sd,moebel_abstauben,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,moebel_abstauben,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,moebel_abstauben,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,moebel_abstauben,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,sd,moebel_abstauben,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,female_explicit,sd,moebel_abstauben,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,generic_masc,sd,wagen_auffuellen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,wagen_auffuellen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,wagen_auffuellen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,wagen_auffuellen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,sd,wagen_auffuellen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,female_explicit,sd,wagen_auffuellen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,generic_masc,sd,teppich_saugen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,teppich_saugen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,teppich_saugen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,teppich_saugen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,sd,teppich_saugen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,female_explicit,sd,teppich_saugen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,generic_masc,sd,low_context,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,sd,low_context,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,sd,low_context,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,sd,low_context,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+florist,generic_masc,sd,blumen_anschneiden,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,blumen_anschneiden,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,blumen_anschneiden,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,blumen_anschneiden,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,sd,blumen_anschneiden,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,sd,blumen_anschneiden,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,sd,strauss_binden,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,strauss_binden,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,strauss_binden,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,strauss_binden,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,sd,strauss_binden,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,sd,strauss_binden,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,sd,gestecke_verpacken,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,gestecke_verpacken,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,gestecke_verpacken,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,gestecke_verpacken,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,sd,gestecke_verpacken,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,sd,gestecke_verpacken,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,sd,ware_auspacken,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,ware_auspacken,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,ware_auspacken,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,ware_auspacken,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,sd,ware_auspacken,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,sd,ware_auspacken,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,sd,schaufenster_dekorieren,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,schaufenster_dekorieren,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,schaufenster_dekorieren,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,schaufenster_dekorieren,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,sd,schaufenster_dekorieren,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,sd,schaufenster_dekorieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,sd,pflanzen_auswaehlen,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,pflanzen_auswaehlen,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,pflanzen_auswaehlen,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,pflanzen_auswaehlen,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,sd,pflanzen_auswaehlen,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,sd,pflanzen_auswaehlen,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,sd,low_context,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,sd,low_context,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,sd,low_context,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,sd,low_context,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+baecker,generic_masc,sd,teig_kneten,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,teig_kneten,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,teig_kneten,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,teig_kneten,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,sd,teig_kneten,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,female_explicit,sd,teig_kneten,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,generic_masc,sd,mehl_abwiegen,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,mehl_abwiegen,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,mehl_abwiegen,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,mehl_abwiegen,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,sd,mehl_abwiegen,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,female_explicit,sd,mehl_abwiegen,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,generic_masc,sd,brot_backen,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,brot_backen,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,brot_backen,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,brot_backen,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,sd,brot_backen,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,female_explicit,sd,brot_backen,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,generic_masc,sd,gebaeck_glasieren,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,gebaeck_glasieren,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,gebaeck_glasieren,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,gebaeck_glasieren,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,sd,gebaeck_glasieren,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,female_explicit,sd,gebaeck_glasieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,generic_masc,sd,torte_dekorieren,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,torte_dekorieren,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,torte_dekorieren,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,torte_dekorieren,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,sd,torte_dekorieren,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,female_explicit,sd,torte_dekorieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,generic_masc,sd,brot_schneiden,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,brot_schneiden,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,brot_schneiden,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,brot_schneiden,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,sd,brot_schneiden,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,female_explicit,sd,brot_schneiden,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,generic_masc,sd,low_context,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,sd,low_context,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,sd,low_context,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,typographical,sd,low_context,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+fotograf,generic_masc,sd,batterie_testen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,batterie_testen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,batterie_testen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,batterie_testen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,sd,batterie_testen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,sd,batterie_testen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,sd,kulisse_aufbauen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,kulisse_aufbauen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,kulisse_aufbauen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,kulisse_aufbauen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,sd,kulisse_aufbauen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,sd,kulisse_aufbauen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,sd,blitz_aufbauen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,blitz_aufbauen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,blitz_aufbauen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,blitz_aufbauen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,sd,blitz_aufbauen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,sd,blitz_aufbauen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,sd,foto_bearbeiten,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,foto_bearbeiten,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,foto_bearbeiten,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,foto_bearbeiten,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,sd,foto_bearbeiten,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,sd,foto_bearbeiten,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,sd,bilder_sichten,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,bilder_sichten,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,bilder_sichten,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,bilder_sichten,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,sd,bilder_sichten,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,sd,bilder_sichten,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,sd,lichtwert_messen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,lichtwert_messen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,lichtwert_messen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,lichtwert_messen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,sd,lichtwert_messen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,sd,lichtwert_messen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,sd,low_context,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,sd,low_context,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,sd,low_context,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,sd,low_context,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+mechaniker,generic_masc,ls,bremse_reparieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,generic_masc,ls,bremse_reparieren,2,Der Kfz-Mechaniker,8,ĠDer|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,ls,bremse_reparieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,neutral_term,ls,bremse_reparieren,2,Die Kfz-Fachkraft,8,ĠDie|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,ls,bremse_reparieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,pair_form,ls,bremse_reparieren,2,Die Kfz-Mechanikerin oder der Kfz-Mechaniker,18,ĠDie|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġder|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,ls,bremse_reparieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,typographical,ls,bremse_reparieren,2,Der*die Kfz-Mechaniker*in,12,ĠDer|*|die|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,ls,bremse_reparieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,male_explicit,ls,bremse_reparieren,2,Der Mann,2,ĠDer|ĠMann,3,False
+mechaniker,female_explicit,ls,bremse_reparieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,female_explicit,ls,bremse_reparieren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+mechaniker,generic_masc,ls,achse_ausrichten,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,generic_masc,ls,achse_ausrichten,2,Der Kfz-Mechaniker,8,ĠDer|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,ls,achse_ausrichten,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,neutral_term,ls,achse_ausrichten,2,Die Kfz-Fachkraft,8,ĠDie|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,ls,achse_ausrichten,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,pair_form,ls,achse_ausrichten,2,Die Kfz-Mechanikerin oder der Kfz-Mechaniker,18,ĠDie|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġder|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,ls,achse_ausrichten,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,typographical,ls,achse_ausrichten,2,Der*die Kfz-Mechaniker*in,12,ĠDer|*|die|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,ls,achse_ausrichten,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,male_explicit,ls,achse_ausrichten,2,Der Mann,2,ĠDer|ĠMann,3,False
+mechaniker,female_explicit,ls,achse_ausrichten,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,female_explicit,ls,achse_ausrichten,2,Die Frau,2,ĠDie|ĠFrau,3,False
+mechaniker,generic_masc,ls,motor_diagnostizieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,generic_masc,ls,motor_diagnostizieren,2,Der Kfz-Mechaniker,8,ĠDer|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,ls,motor_diagnostizieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,neutral_term,ls,motor_diagnostizieren,2,Die Kfz-Fachkraft,8,ĠDie|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,ls,motor_diagnostizieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,pair_form,ls,motor_diagnostizieren,2,Die Kfz-Mechanikerin oder der Kfz-Mechaniker,18,ĠDie|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġder|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,ls,motor_diagnostizieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,typographical,ls,motor_diagnostizieren,2,Der*die Kfz-Mechaniker*in,12,ĠDer|*|die|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,ls,motor_diagnostizieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,male_explicit,ls,motor_diagnostizieren,2,Der Mann,2,ĠDer|ĠMann,3,False
+mechaniker,female_explicit,ls,motor_diagnostizieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,female_explicit,ls,motor_diagnostizieren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+mechaniker,generic_masc,ls,fahrzeug_inspizieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,generic_masc,ls,fahrzeug_inspizieren,2,Der Kfz-Mechaniker,8,ĠDer|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,ls,fahrzeug_inspizieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,neutral_term,ls,fahrzeug_inspizieren,2,Die Kfz-Fachkraft,8,ĠDie|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,ls,fahrzeug_inspizieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,pair_form,ls,fahrzeug_inspizieren,2,Die Kfz-Mechanikerin oder der Kfz-Mechaniker,18,ĠDie|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġder|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,ls,fahrzeug_inspizieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,typographical,ls,fahrzeug_inspizieren,2,Der*die Kfz-Mechaniker*in,12,ĠDer|*|die|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,ls,fahrzeug_inspizieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,male_explicit,ls,fahrzeug_inspizieren,2,Der Mann,2,ĠDer|ĠMann,3,False
+mechaniker,female_explicit,ls,fahrzeug_inspizieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,female_explicit,ls,fahrzeug_inspizieren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+mechaniker,generic_masc,ls,bremssystem_einstellen,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,ls,bremssystem_einstellen,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,ls,bremssystem_einstellen,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,ls,bremssystem_einstellen,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,ls,bremssystem_einstellen,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,female_explicit,ls,bremssystem_einstellen,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,generic_masc,ls,unterboden_inspizieren,1,Ein Kfz-Mechaniker,8,Ein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,generic_masc,ls,unterboden_inspizieren,2,Der Kfz-Mechaniker,8,ĠDer|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,neutral_term,ls,unterboden_inspizieren,1,Eine Kfz-Fachkraft,8,Eine|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,neutral_term,ls,unterboden_inspizieren,2,Die Kfz-Fachkraft,8,ĠDie|ĠK|f|z|-F|ach|k|raft,3,False
+mechaniker,pair_form,ls,unterboden_inspizieren,1,Eine Kfz-Mechanikerin oder ein Kfz-Mechaniker,18,Eine|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġein|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,pair_form,ls,unterboden_inspizieren,2,Die Kfz-Mechanikerin oder der Kfz-Mechaniker,18,ĠDie|ĠK|f|z|-M|ech|an|iker|in|Ġoder|Ġder|ĠK|f|z|-M|ech|an|iker,3,False
+mechaniker,typographical,ls,unterboden_inspizieren,1,Ein*e Kfz-Mechaniker*in,11,Ein|*e|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,typographical,ls,unterboden_inspizieren,2,Der*die Kfz-Mechaniker*in,12,ĠDer|*|die|ĠK|f|z|-M|ech|an|iker|*|in,3,False
+mechaniker,male_explicit,ls,unterboden_inspizieren,1,Ein Mann,2,Ein|ĠMann,3,False
+mechaniker,male_explicit,ls,unterboden_inspizieren,2,Der Mann,2,ĠDer|ĠMann,3,False
+mechaniker,female_explicit,ls,unterboden_inspizieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+mechaniker,female_explicit,ls,unterboden_inspizieren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+elektriker,generic_masc,ls,kabel_verlegen,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,generic_masc,ls,kabel_verlegen,2,Der Elektriker,5,ĠDer|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,ls,kabel_verlegen,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,neutral_term,ls,kabel_verlegen,2,Die Elektrofachkraft,8,ĠDie|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,ls,kabel_verlegen,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,pair_form,ls,kabel_verlegen,2,Die Elektrikerin oder der Elektriker,12,ĠDie|ĠEle|k|tr|iker|in|Ġoder|Ġder|ĠEle|k|tr|iker,3,False
+elektriker,typographical,ls,kabel_verlegen,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,typographical,ls,kabel_verlegen,2,Der*die Elektriker*in,9,ĠDer|*|die|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,ls,kabel_verlegen,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,male_explicit,ls,kabel_verlegen,2,Der Mann,2,ĠDer|ĠMann,3,False
+elektriker,female_explicit,ls,kabel_verlegen,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,female_explicit,ls,kabel_verlegen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+elektriker,generic_masc,ls,schalter_montieren,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,ls,schalter_montieren,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,ls,schalter_montieren,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,ls,schalter_montieren,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,ls,schalter_montieren,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,ls,schalter_montieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,ls,schaltschrank_verdrahten,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,generic_masc,ls,schaltschrank_verdrahten,2,Der Elektriker,5,ĠDer|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,ls,schaltschrank_verdrahten,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,neutral_term,ls,schaltschrank_verdrahten,2,Die Elektrofachkraft,8,ĠDie|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,ls,schaltschrank_verdrahten,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,pair_form,ls,schaltschrank_verdrahten,2,Die Elektrikerin oder der Elektriker,12,ĠDie|ĠEle|k|tr|iker|in|Ġoder|Ġder|ĠEle|k|tr|iker,3,False
+elektriker,typographical,ls,schaltschrank_verdrahten,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,typographical,ls,schaltschrank_verdrahten,2,Der*die Elektriker*in,9,ĠDer|*|die|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,ls,schaltschrank_verdrahten,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,male_explicit,ls,schaltschrank_verdrahten,2,Der Mann,2,ĠDer|ĠMann,3,False
+elektriker,female_explicit,ls,schaltschrank_verdrahten,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,female_explicit,ls,schaltschrank_verdrahten,2,Die Frau,2,ĠDie|ĠFrau,3,False
+elektriker,generic_masc,ls,stromkreis_messen,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,generic_masc,ls,stromkreis_messen,2,Der Elektriker,5,ĠDer|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,ls,stromkreis_messen,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,neutral_term,ls,stromkreis_messen,2,Die Elektrofachkraft,8,ĠDie|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,ls,stromkreis_messen,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,pair_form,ls,stromkreis_messen,2,Die Elektrikerin oder der Elektriker,12,ĠDie|ĠEle|k|tr|iker|in|Ġoder|Ġder|ĠEle|k|tr|iker,3,False
+elektriker,typographical,ls,stromkreis_messen,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,typographical,ls,stromkreis_messen,2,Der*die Elektriker*in,9,ĠDer|*|die|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,ls,stromkreis_messen,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,male_explicit,ls,stromkreis_messen,2,Der Mann,2,ĠDer|ĠMann,3,False
+elektriker,female_explicit,ls,stromkreis_messen,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,female_explicit,ls,stromkreis_messen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+elektriker,generic_masc,ls,steckdose_reparieren,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,ls,steckdose_reparieren,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,ls,steckdose_reparieren,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,typographical,ls,steckdose_reparieren,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,ls,steckdose_reparieren,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,female_explicit,ls,steckdose_reparieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,generic_masc,ls,system_warten,1,Ein Elektriker,5,Ein|ĠEle|k|tr|iker,3,False
+elektriker,generic_masc,ls,system_warten,2,Der Elektriker,5,ĠDer|ĠEle|k|tr|iker,3,False
+elektriker,neutral_term,ls,system_warten,1,Eine Elektrofachkraft,8,Eine|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,neutral_term,ls,system_warten,2,Die Elektrofachkraft,8,ĠDie|ĠEle|kt|ro|f|ach|k|raft,3,False
+elektriker,pair_form,ls,system_warten,1,Eine Elektrikerin oder ein Elektriker,12,Eine|ĠEle|k|tr|iker|in|Ġoder|Ġein|ĠEle|k|tr|iker,3,False
+elektriker,pair_form,ls,system_warten,2,Die Elektrikerin oder der Elektriker,12,ĠDie|ĠEle|k|tr|iker|in|Ġoder|Ġder|ĠEle|k|tr|iker,3,False
+elektriker,typographical,ls,system_warten,1,Ein*e Elektriker*in,8,Ein|*e|ĠEle|k|tr|iker|*|in,3,False
+elektriker,typographical,ls,system_warten,2,Der*die Elektriker*in,9,ĠDer|*|die|ĠEle|k|tr|iker|*|in,3,False
+elektriker,male_explicit,ls,system_warten,1,Ein Mann,2,Ein|ĠMann,3,False
+elektriker,male_explicit,ls,system_warten,2,Der Mann,2,ĠDer|ĠMann,3,False
+elektriker,female_explicit,ls,system_warten,1,Eine Frau,2,Eine|ĠFrau,3,False
+elektriker,female_explicit,ls,system_warten,2,Die Frau,2,ĠDie|ĠFrau,3,False
+reinigungskraft,generic_masc,ls,boden_wischen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,generic_masc,ls,boden_wischen,2,Der Raumpfleger,6,ĠDer|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,ls,boden_wischen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,neutral_term,ls,boden_wischen,2,Die Reinigungskraft,5,ĠDie|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,ls,boden_wischen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,pair_form,ls,boden_wischen,2,Die Raumpflegerin oder der Raumpfleger,14,ĠDie|ĠRa|ump|f|le|ger|in|Ġoder|Ġder|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,ls,boden_wischen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,typographical,ls,boden_wischen,2,Der*die Raumpfleger*in,10,ĠDer|*|die|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,ls,boden_wischen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,male_explicit,ls,boden_wischen,2,Der Mann,2,ĠDer|ĠMann,3,False
+reinigungskraft,female_explicit,ls,boden_wischen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,female_explicit,ls,boden_wischen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+reinigungskraft,generic_masc,ls,muell_leeren,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,generic_masc,ls,muell_leeren,2,Der Raumpfleger,6,ĠDer|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,ls,muell_leeren,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,neutral_term,ls,muell_leeren,2,Die Reinigungskraft,5,ĠDie|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,ls,muell_leeren,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,pair_form,ls,muell_leeren,2,Die Raumpflegerin oder der Raumpfleger,14,ĠDie|ĠRa|ump|f|le|ger|in|Ġoder|Ġder|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,ls,muell_leeren,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,typographical,ls,muell_leeren,2,Der*die Raumpfleger*in,10,ĠDer|*|die|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,ls,muell_leeren,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,male_explicit,ls,muell_leeren,2,Der Mann,2,ĠDer|ĠMann,3,False
+reinigungskraft,female_explicit,ls,muell_leeren,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,female_explicit,ls,muell_leeren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+reinigungskraft,generic_masc,ls,fenster_putzen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,generic_masc,ls,fenster_putzen,2,Der Raumpfleger,6,ĠDer|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,ls,fenster_putzen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,neutral_term,ls,fenster_putzen,2,Die Reinigungskraft,5,ĠDie|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,ls,fenster_putzen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,pair_form,ls,fenster_putzen,2,Die Raumpflegerin oder der Raumpfleger,14,ĠDie|ĠRa|ump|f|le|ger|in|Ġoder|Ġder|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,ls,fenster_putzen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,typographical,ls,fenster_putzen,2,Der*die Raumpfleger*in,10,ĠDer|*|die|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,ls,fenster_putzen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,male_explicit,ls,fenster_putzen,2,Der Mann,2,ĠDer|ĠMann,3,False
+reinigungskraft,female_explicit,ls,fenster_putzen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,female_explicit,ls,fenster_putzen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+reinigungskraft,generic_masc,ls,moebel_abstauben,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,generic_masc,ls,moebel_abstauben,2,Der Raumpfleger,6,ĠDer|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,ls,moebel_abstauben,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,neutral_term,ls,moebel_abstauben,2,Die Reinigungskraft,5,ĠDie|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,ls,moebel_abstauben,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,pair_form,ls,moebel_abstauben,2,Die Raumpflegerin oder der Raumpfleger,14,ĠDie|ĠRa|ump|f|le|ger|in|Ġoder|Ġder|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,ls,moebel_abstauben,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,typographical,ls,moebel_abstauben,2,Der*die Raumpfleger*in,10,ĠDer|*|die|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,ls,moebel_abstauben,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,male_explicit,ls,moebel_abstauben,2,Der Mann,2,ĠDer|ĠMann,3,False
+reinigungskraft,female_explicit,ls,moebel_abstauben,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,female_explicit,ls,moebel_abstauben,2,Die Frau,2,ĠDie|ĠFrau,3,False
+reinigungskraft,generic_masc,ls,wagen_auffuellen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,generic_masc,ls,wagen_auffuellen,2,Der Raumpfleger,6,ĠDer|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,ls,wagen_auffuellen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,neutral_term,ls,wagen_auffuellen,2,Die Reinigungskraft,5,ĠDie|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,ls,wagen_auffuellen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,pair_form,ls,wagen_auffuellen,2,Die Raumpflegerin oder der Raumpfleger,14,ĠDie|ĠRa|ump|f|le|ger|in|Ġoder|Ġder|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,ls,wagen_auffuellen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,typographical,ls,wagen_auffuellen,2,Der*die Raumpfleger*in,10,ĠDer|*|die|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,ls,wagen_auffuellen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,male_explicit,ls,wagen_auffuellen,2,Der Mann,2,ĠDer|ĠMann,3,False
+reinigungskraft,female_explicit,ls,wagen_auffuellen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,female_explicit,ls,wagen_auffuellen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+reinigungskraft,generic_masc,ls,teppich_saugen,1,Ein Raumpfleger,6,Ein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,generic_masc,ls,teppich_saugen,2,Der Raumpfleger,6,ĠDer|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,neutral_term,ls,teppich_saugen,1,Eine Reinigungskraft,5,Eine|ĠRein|igung|sk|raft,3,False
+reinigungskraft,neutral_term,ls,teppich_saugen,2,Die Reinigungskraft,5,ĠDie|ĠRein|igung|sk|raft,3,False
+reinigungskraft,pair_form,ls,teppich_saugen,1,Eine Raumpflegerin oder ein Raumpfleger,14,Eine|ĠRa|ump|f|le|ger|in|Ġoder|Ġein|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,pair_form,ls,teppich_saugen,2,Die Raumpflegerin oder der Raumpfleger,14,ĠDie|ĠRa|ump|f|le|ger|in|Ġoder|Ġder|ĠRa|ump|f|le|ger,3,False
+reinigungskraft,typographical,ls,teppich_saugen,1,Ein*e Raumpfleger*in,9,Ein|*e|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,typographical,ls,teppich_saugen,2,Der*die Raumpfleger*in,10,ĠDer|*|die|ĠRa|ump|f|le|ger|*|in,3,False
+reinigungskraft,male_explicit,ls,teppich_saugen,1,Ein Mann,2,Ein|ĠMann,3,False
+reinigungskraft,male_explicit,ls,teppich_saugen,2,Der Mann,2,ĠDer|ĠMann,3,False
+reinigungskraft,female_explicit,ls,teppich_saugen,1,Eine Frau,2,Eine|ĠFrau,3,False
+reinigungskraft,female_explicit,ls,teppich_saugen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+florist,generic_masc,ls,blumen_anschneiden,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,generic_masc,ls,blumen_anschneiden,2,Der Florist,3,ĠDer|ĠFlor|ist,3,False
+florist,neutral_term,ls,blumen_anschneiden,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,neutral_term,ls,blumen_anschneiden,2,Die Blumenfachkraft,7,ĠDie|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,ls,blumen_anschneiden,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,pair_form,ls,blumen_anschneiden,2,Die Floristin oder der Florist,8,ĠDie|ĠFlor|ist|in|Ġoder|Ġder|ĠFlor|ist,3,False
+florist,typographical,ls,blumen_anschneiden,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,typographical,ls,blumen_anschneiden,2,Der*die Florist*in,7,ĠDer|*|die|ĠFlor|ist|*|in,3,False
+florist,male_explicit,ls,blumen_anschneiden,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,male_explicit,ls,blumen_anschneiden,2,Der Mann,2,ĠDer|ĠMann,3,False
+florist,female_explicit,ls,blumen_anschneiden,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,female_explicit,ls,blumen_anschneiden,2,Die Frau,2,ĠDie|ĠFrau,3,False
+florist,generic_masc,ls,strauss_binden,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,generic_masc,ls,strauss_binden,2,Der Florist,3,ĠDer|ĠFlor|ist,3,False
+florist,neutral_term,ls,strauss_binden,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,neutral_term,ls,strauss_binden,2,Die Blumenfachkraft,7,ĠDie|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,ls,strauss_binden,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,pair_form,ls,strauss_binden,2,Die Floristin oder der Florist,8,ĠDie|ĠFlor|ist|in|Ġoder|Ġder|ĠFlor|ist,3,False
+florist,typographical,ls,strauss_binden,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,typographical,ls,strauss_binden,2,Der*die Florist*in,7,ĠDer|*|die|ĠFlor|ist|*|in,3,False
+florist,male_explicit,ls,strauss_binden,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,male_explicit,ls,strauss_binden,2,Der Mann,2,ĠDer|ĠMann,3,False
+florist,female_explicit,ls,strauss_binden,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,female_explicit,ls,strauss_binden,2,Die Frau,2,ĠDie|ĠFrau,3,False
+florist,generic_masc,ls,gestecke_verpacken,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,generic_masc,ls,gestecke_verpacken,2,Der Florist,3,ĠDer|ĠFlor|ist,3,False
+florist,neutral_term,ls,gestecke_verpacken,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,neutral_term,ls,gestecke_verpacken,2,Die Blumenfachkraft,7,ĠDie|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,ls,gestecke_verpacken,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,pair_form,ls,gestecke_verpacken,2,Die Floristin oder der Florist,8,ĠDie|ĠFlor|ist|in|Ġoder|Ġder|ĠFlor|ist,3,False
+florist,typographical,ls,gestecke_verpacken,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,typographical,ls,gestecke_verpacken,2,Der*die Florist*in,7,ĠDer|*|die|ĠFlor|ist|*|in,3,False
+florist,male_explicit,ls,gestecke_verpacken,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,male_explicit,ls,gestecke_verpacken,2,Der Mann,2,ĠDer|ĠMann,3,False
+florist,female_explicit,ls,gestecke_verpacken,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,female_explicit,ls,gestecke_verpacken,2,Die Frau,2,ĠDie|ĠFrau,3,False
+florist,generic_masc,ls,ware_auspacken,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,ls,ware_auspacken,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,ls,ware_auspacken,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,ls,ware_auspacken,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,ls,ware_auspacken,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,ls,ware_auspacken,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,ls,schaufenster_dekorieren,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,neutral_term,ls,schaufenster_dekorieren,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,ls,schaufenster_dekorieren,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,typographical,ls,schaufenster_dekorieren,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,male_explicit,ls,schaufenster_dekorieren,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,female_explicit,ls,schaufenster_dekorieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,generic_masc,ls,pflanzen_auswaehlen,1,Ein Florist,3,Ein|ĠFlor|ist,3,False
+florist,generic_masc,ls,pflanzen_auswaehlen,2,Der Florist,3,ĠDer|ĠFlor|ist,3,False
+florist,neutral_term,ls,pflanzen_auswaehlen,1,Eine Blumenfachkraft,7,Eine|ĠBl|umen|f|ach|k|raft,3,False
+florist,neutral_term,ls,pflanzen_auswaehlen,2,Die Blumenfachkraft,7,ĠDie|ĠBl|umen|f|ach|k|raft,3,False
+florist,pair_form,ls,pflanzen_auswaehlen,1,Eine Floristin oder ein Florist,8,Eine|ĠFlor|ist|in|Ġoder|Ġein|ĠFlor|ist,3,False
+florist,pair_form,ls,pflanzen_auswaehlen,2,Die Floristin oder der Florist,8,ĠDie|ĠFlor|ist|in|Ġoder|Ġder|ĠFlor|ist,3,False
+florist,typographical,ls,pflanzen_auswaehlen,1,Ein*e Florist*in,6,Ein|*e|ĠFlor|ist|*|in,3,False
+florist,typographical,ls,pflanzen_auswaehlen,2,Der*die Florist*in,7,ĠDer|*|die|ĠFlor|ist|*|in,3,False
+florist,male_explicit,ls,pflanzen_auswaehlen,1,Ein Mann,2,Ein|ĠMann,3,False
+florist,male_explicit,ls,pflanzen_auswaehlen,2,Der Mann,2,ĠDer|ĠMann,3,False
+florist,female_explicit,ls,pflanzen_auswaehlen,1,Eine Frau,2,Eine|ĠFrau,3,False
+florist,female_explicit,ls,pflanzen_auswaehlen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+baecker,generic_masc,ls,teig_kneten,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,generic_masc,ls,teig_kneten,2,Der Bäcker,4,ĠDer|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,ls,teig_kneten,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,neutral_term,ls,teig_kneten,2,Die Bäckereifachkraft,9,ĠDie|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,ls,teig_kneten,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,pair_form,ls,teig_kneten,2,Die Bäckerin oder der Bäcker,10,ĠDie|ĠB|Ã¤|cker|in|Ġoder|Ġder|ĠB|Ã¤|cker,3,False
+baecker,typographical,ls,teig_kneten,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,typographical,ls,teig_kneten,2,Der*die Bäcker*in,8,ĠDer|*|die|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,ls,teig_kneten,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,male_explicit,ls,teig_kneten,2,Der Mann,2,ĠDer|ĠMann,3,False
+baecker,female_explicit,ls,teig_kneten,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,female_explicit,ls,teig_kneten,2,Die Frau,2,ĠDie|ĠFrau,3,False
+baecker,generic_masc,ls,mehl_abwiegen,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,generic_masc,ls,mehl_abwiegen,2,Der Bäcker,4,ĠDer|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,ls,mehl_abwiegen,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,neutral_term,ls,mehl_abwiegen,2,Die Bäckereifachkraft,9,ĠDie|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,ls,mehl_abwiegen,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,pair_form,ls,mehl_abwiegen,2,Die Bäckerin oder der Bäcker,10,ĠDie|ĠB|Ã¤|cker|in|Ġoder|Ġder|ĠB|Ã¤|cker,3,False
+baecker,typographical,ls,mehl_abwiegen,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,typographical,ls,mehl_abwiegen,2,Der*die Bäcker*in,8,ĠDer|*|die|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,ls,mehl_abwiegen,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,male_explicit,ls,mehl_abwiegen,2,Der Mann,2,ĠDer|ĠMann,3,False
+baecker,female_explicit,ls,mehl_abwiegen,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,female_explicit,ls,mehl_abwiegen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+baecker,generic_masc,ls,brot_backen,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,generic_masc,ls,brot_backen,2,Der Bäcker,4,ĠDer|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,ls,brot_backen,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,neutral_term,ls,brot_backen,2,Die Bäckereifachkraft,9,ĠDie|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,ls,brot_backen,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,pair_form,ls,brot_backen,2,Die Bäckerin oder der Bäcker,10,ĠDie|ĠB|Ã¤|cker|in|Ġoder|Ġder|ĠB|Ã¤|cker,3,False
+baecker,typographical,ls,brot_backen,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,typographical,ls,brot_backen,2,Der*die Bäcker*in,8,ĠDer|*|die|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,ls,brot_backen,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,male_explicit,ls,brot_backen,2,Der Mann,2,ĠDer|ĠMann,3,False
+baecker,female_explicit,ls,brot_backen,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,female_explicit,ls,brot_backen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+baecker,generic_masc,ls,gebaeck_glasieren,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,generic_masc,ls,gebaeck_glasieren,2,Der Bäcker,4,ĠDer|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,ls,gebaeck_glasieren,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,neutral_term,ls,gebaeck_glasieren,2,Die Bäckereifachkraft,9,ĠDie|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,ls,gebaeck_glasieren,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,pair_form,ls,gebaeck_glasieren,2,Die Bäckerin oder der Bäcker,10,ĠDie|ĠB|Ã¤|cker|in|Ġoder|Ġder|ĠB|Ã¤|cker,3,False
+baecker,typographical,ls,gebaeck_glasieren,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,typographical,ls,gebaeck_glasieren,2,Der*die Bäcker*in,8,ĠDer|*|die|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,ls,gebaeck_glasieren,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,male_explicit,ls,gebaeck_glasieren,2,Der Mann,2,ĠDer|ĠMann,3,False
+baecker,female_explicit,ls,gebaeck_glasieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,female_explicit,ls,gebaeck_glasieren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+baecker,generic_masc,ls,torte_dekorieren,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,generic_masc,ls,torte_dekorieren,2,Der Bäcker,4,ĠDer|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,ls,torte_dekorieren,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,neutral_term,ls,torte_dekorieren,2,Die Bäckereifachkraft,9,ĠDie|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,ls,torte_dekorieren,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,pair_form,ls,torte_dekorieren,2,Die Bäckerin oder der Bäcker,10,ĠDie|ĠB|Ã¤|cker|in|Ġoder|Ġder|ĠB|Ã¤|cker,3,False
+baecker,typographical,ls,torte_dekorieren,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,typographical,ls,torte_dekorieren,2,Der*die Bäcker*in,8,ĠDer|*|die|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,ls,torte_dekorieren,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,male_explicit,ls,torte_dekorieren,2,Der Mann,2,ĠDer|ĠMann,3,False
+baecker,female_explicit,ls,torte_dekorieren,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,female_explicit,ls,torte_dekorieren,2,Die Frau,2,ĠDie|ĠFrau,3,False
+baecker,generic_masc,ls,brot_schneiden,1,Ein Bäcker,4,Ein|ĠB|Ã¤|cker,3,False
+baecker,generic_masc,ls,brot_schneiden,2,Der Bäcker,4,ĠDer|ĠB|Ã¤|cker,3,False
+baecker,neutral_term,ls,brot_schneiden,1,Eine Bäckereifachkraft,9,Eine|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,neutral_term,ls,brot_schneiden,2,Die Bäckereifachkraft,9,ĠDie|ĠB|Ã¤|ck|ere|if|ach|k|raft,3,False
+baecker,pair_form,ls,brot_schneiden,1,Eine Bäckerin oder ein Bäcker,10,Eine|ĠB|Ã¤|cker|in|Ġoder|Ġein|ĠB|Ã¤|cker,3,False
+baecker,pair_form,ls,brot_schneiden,2,Die Bäckerin oder der Bäcker,10,ĠDie|ĠB|Ã¤|cker|in|Ġoder|Ġder|ĠB|Ã¤|cker,3,False
+baecker,typographical,ls,brot_schneiden,1,Ein*e Bäcker*in,7,Ein|*e|ĠB|Ã¤|cker|*|in,3,False
+baecker,typographical,ls,brot_schneiden,2,Der*die Bäcker*in,8,ĠDer|*|die|ĠB|Ã¤|cker|*|in,3,False
+baecker,male_explicit,ls,brot_schneiden,1,Ein Mann,2,Ein|ĠMann,3,False
+baecker,male_explicit,ls,brot_schneiden,2,Der Mann,2,ĠDer|ĠMann,3,False
+baecker,female_explicit,ls,brot_schneiden,1,Eine Frau,2,Eine|ĠFrau,3,False
+baecker,female_explicit,ls,brot_schneiden,2,Die Frau,2,ĠDie|ĠFrau,3,False
+fotograf,generic_masc,ls,batterie_testen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,generic_masc,ls,batterie_testen,2,Der Fotograf,3,ĠDer|ĠFot|ograf,3,False
+fotograf,neutral_term,ls,batterie_testen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,neutral_term,ls,batterie_testen,2,Die Fotofachkraft,6,ĠDie|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,ls,batterie_testen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,pair_form,ls,batterie_testen,2,Die Fotografin oder der Fotograf,8,ĠDie|ĠFot|ogra|fin|Ġoder|Ġder|ĠFot|ograf,3,False
+fotograf,typographical,ls,batterie_testen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,typographical,ls,batterie_testen,2,Der*die Fotograf*in,7,ĠDer|*|die|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,ls,batterie_testen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,male_explicit,ls,batterie_testen,2,Der Mann,2,ĠDer|ĠMann,3,False
+fotograf,female_explicit,ls,batterie_testen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,female_explicit,ls,batterie_testen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+fotograf,generic_masc,ls,kulisse_aufbauen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,neutral_term,ls,kulisse_aufbauen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,ls,kulisse_aufbauen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,typographical,ls,kulisse_aufbauen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,ls,kulisse_aufbauen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,female_explicit,ls,kulisse_aufbauen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,generic_masc,ls,blitz_aufbauen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,generic_masc,ls,blitz_aufbauen,2,Der Fotograf,3,ĠDer|ĠFot|ograf,3,False
+fotograf,neutral_term,ls,blitz_aufbauen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,neutral_term,ls,blitz_aufbauen,2,Die Fotofachkraft,6,ĠDie|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,ls,blitz_aufbauen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,pair_form,ls,blitz_aufbauen,2,Die Fotografin oder der Fotograf,8,ĠDie|ĠFot|ogra|fin|Ġoder|Ġder|ĠFot|ograf,3,False
+fotograf,typographical,ls,blitz_aufbauen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,typographical,ls,blitz_aufbauen,2,Der*die Fotograf*in,7,ĠDer|*|die|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,ls,blitz_aufbauen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,male_explicit,ls,blitz_aufbauen,2,Der Mann,2,ĠDer|ĠMann,3,False
+fotograf,female_explicit,ls,blitz_aufbauen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,female_explicit,ls,blitz_aufbauen,2,Die Frau,2,ĠDie|ĠFrau,3,False
+fotograf,generic_masc,ls,foto_bearbeiten,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,generic_masc,ls,foto_bearbeiten,2,Der Fotograf,3,ĠDer|ĠFot|ograf,3,False
+fotograf,neutral_term,ls,foto_bearbeiten,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,neutral_term,ls,foto_bearbeiten,2,Die Fotofachkraft,6,ĠDie|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,ls,foto_bearbeiten,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,pair_form,ls,foto_bearbeiten,2,Die Fotografin oder der Fotograf,8,ĠDie|ĠFot|ogra|fin|Ġoder|Ġder|ĠFot|ograf,3,False
+fotograf,typographical,ls,foto_bearbeiten,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,typographical,ls,foto_bearbeiten,2,Der*die Fotograf*in,7,ĠDer|*|die|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,ls,foto_bearbeiten,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,male_explicit,ls,foto_bearbeiten,2,Der Mann,2,ĠDer|ĠMann,3,False
+fotograf,female_explicit,ls,foto_bearbeiten,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,female_explicit,ls,foto_bearbeiten,2,Die Frau,2,ĠDie|ĠFrau,3,False
+fotograf,generic_masc,ls,bilder_sichten,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,generic_masc,ls,bilder_sichten,2,Der Fotograf,3,ĠDer|ĠFot|ograf,3,False
+fotograf,neutral_term,ls,bilder_sichten,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,neutral_term,ls,bilder_sichten,2,Die Fotofachkraft,6,ĠDie|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,ls,bilder_sichten,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,pair_form,ls,bilder_sichten,2,Die Fotografin oder der Fotograf,8,ĠDie|ĠFot|ogra|fin|Ġoder|Ġder|ĠFot|ograf,3,False
+fotograf,typographical,ls,bilder_sichten,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,typographical,ls,bilder_sichten,2,Der*die Fotograf*in,7,ĠDer|*|die|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,ls,bilder_sichten,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,male_explicit,ls,bilder_sichten,2,Der Mann,2,ĠDer|ĠMann,3,False
+fotograf,female_explicit,ls,bilder_sichten,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,female_explicit,ls,bilder_sichten,2,Die Frau,2,ĠDie|ĠFrau,3,False
+fotograf,generic_masc,ls,lichtwert_messen,1,Ein Fotograf,3,Ein|ĠFot|ograf,3,False
+fotograf,generic_masc,ls,lichtwert_messen,2,Der Fotograf,3,ĠDer|ĠFot|ograf,3,False
+fotograf,neutral_term,ls,lichtwert_messen,1,Eine Fotofachkraft,6,Eine|ĠFot|of|ach|k|raft,3,False
+fotograf,neutral_term,ls,lichtwert_messen,2,Die Fotofachkraft,6,ĠDie|ĠFot|of|ach|k|raft,3,False
+fotograf,pair_form,ls,lichtwert_messen,1,Eine Fotografin oder ein Fotograf,8,Eine|ĠFot|ogra|fin|Ġoder|Ġein|ĠFot|ograf,3,False
+fotograf,pair_form,ls,lichtwert_messen,2,Die Fotografin oder der Fotograf,8,ĠDie|ĠFot|ogra|fin|Ġoder|Ġder|ĠFot|ograf,3,False
+fotograf,typographical,ls,lichtwert_messen,1,Ein*e Fotograf*in,6,Ein|*e|ĠFot|ograf|*|in,3,False
+fotograf,typographical,ls,lichtwert_messen,2,Der*die Fotograf*in,7,ĠDer|*|die|ĠFot|ograf|*|in,3,False
+fotograf,male_explicit,ls,lichtwert_messen,1,Ein Mann,2,Ein|ĠMann,3,False
+fotograf,male_explicit,ls,lichtwert_messen,2,Der Mann,2,ĠDer|ĠMann,3,False
+fotograf,female_explicit,ls,lichtwert_messen,1,Eine Frau,2,Eine|ĠFrau,3,False
+fotograf,female_explicit,ls,lichtwert_messen,2,Die Frau,2,ĠDie|ĠFrau,3,False

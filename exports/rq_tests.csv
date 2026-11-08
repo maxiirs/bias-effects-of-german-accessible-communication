@@ -1,0 +1,9 @@
+question,block,role,variant,contrast,n_scenes,mean,ci_low,ci_high,t,p_t,wilcoxon_W,p_wilcoxon
+RQ2,dual_2,primary,all four gender forms,GAL minus GSL,32,-0.0066,-0.0348,0.0216,-0.476,0.6373,259.0,0.9339
+RQ2,dual_2,primary,without the typographical form,GAL minus GSL,32,-0.0033,-0.0311,0.0245,-0.242,0.8103,261.0,0.9632
+RQ2,dual_4,replication,all four gender forms,GAL minus GSL,32,0.0236,-0.0253,0.0724,0.984,0.3326,230.0,0.5361
+RQ2,dual_4,replication,without the typographical form,GAL minus GSL,32,0.0295,-0.0171,0.0762,1.292,0.206,196.0,0.21
+RQ3,single_4,primary,,"generic masculine minus neutral term, mean of both language forms",31,0.3352,0.2327,0.4376,6.68,0.0,19.0,0.0
+RQ4,single_4,primary,,(generic masculine minus neutral term) in GAL minus the same in GSL,31,0.0204,-0.0592,0.0999,0.523,0.6048,221.0,0.6083
+RQ3,single_5,replication,,"generic masculine minus neutral term, mean of both language forms",31,0.3068,0.2123,0.4014,6.626,0.0,15.0,0.0
+RQ4,single_5,replication,,(generic masculine minus neutral term) in GAL minus the same in GSL,31,0.0331,-0.044,0.1101,0.877,0.3876,202.0,0.3777

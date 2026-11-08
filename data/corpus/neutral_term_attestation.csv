@@ -1,0 +1,13 @@
+profession,role,term,source,hits_raw,corpus_total,dwds_freq_class,hits_dwds_equiv,per_million,duden_http_status,verdict,retrieved
+mechaniker,neutral_term,Kfz-Fachkraft,dwds_frequency_api,77,53217038820,0,77,0.00145,404,marginal,2026-07-21
+elektriker,neutral_term,Elektrofachkraft,dwds_frequency_api,11207,53217038820,1,11207,0.21059,404,attested,2026-07-21
+reinigungskraft,neutral_term,Reinigungskraft,dwds_frequency_api,65315,53217038820,2,65315,1.22733,200,attested,2026-07-21
+florist,neutral_term,Blumenfachkraft,dwds_frequency_api,0,53217038820,0,0,0.0,404,unattested,2026-07-21
+baecker,neutral_term,Bäckereifachkraft,dwds_frequency_api,26,53217038820,0,26,0.00049,404,unattested,2026-07-21
+fotograf,neutral_term,Fotofachkraft,dwds_frequency_api,7,53217038820,0,7,0.00013,404,unattested,2026-07-21
+mechaniker,generic_masc,Kfz-Mechaniker,dwds_frequency_api,26931,53217038820,2,26931,0.50606,404,attested,2026-07-21
+elektriker,generic_masc,Elektriker,dwds_frequency_api,120795,53217038820,2,120795,2.26986,200,attested,2026-07-21
+reinigungskraft,generic_masc,Raumpfleger,dwds_frequency_api,1156,53217038820,0,1156,0.02172,200,attested,2026-07-21
+florist,generic_masc,Florist,dwds_frequency_api,39165,53217038820,2,39165,0.73595,200,attested,2026-07-21
+baecker,generic_masc,Bäcker,dwds_frequency_api,352861,53217038820,3,352861,6.6306,404,attested,2026-07-21
+fotograf,generic_masc,Fotograf,dwds_frequency_api,1141602,53217038820,3,1141602,21.45181,200,attested,2026-07-21

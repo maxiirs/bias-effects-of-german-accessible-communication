@@ -1,0 +1,5 @@
+block,variety,n_cells,spearman_rho
+single_4,ls,24,0.9227
+single_4,sd,24,0.9161
+single_5,ls,24,0.9214
+single_5,sd,24,0.9036

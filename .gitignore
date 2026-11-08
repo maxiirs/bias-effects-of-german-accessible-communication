@@ -1,0 +1,11 @@
+# Run directories keep their tables and logs; images and tensors are on Hugging Face.
+data/**
+!data/**/
+!data/**/*.csv
+!data/**/log.jsonl
+!data/concept_word_probe/*.pt
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,11 @@
+block,condition,n_scenes,mean_score_ls,mean_score_sd,mean_score_both
+single_4,generic_masc,31,0.7593,0.7744,0.7669
+single_4,neutral_term,31,0.414,0.4494,0.4317
+single_4,pair_form,31,0.0872,0.2197,0.1535
+single_4,typographical,31,0.4755,0.5439,0.5097
+single_4,generic_masc_minus_neutral_term,31,0.3453,0.325,0.3352
+single_5,generic_masc,31,0.742,0.749,0.7455
+single_5,neutral_term,31,0.4187,0.4587,0.4387
+single_5,pair_form,31,0.1016,0.2303,0.1659
+single_5,typographical,31,0.4631,0.5296,0.4964
+single_5,generic_masc_minus_neutral_term,31,0.3233,0.2903,0.3068

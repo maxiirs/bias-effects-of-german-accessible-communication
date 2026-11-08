@@ -1,0 +1,27 @@
+control,pair,role,order,object_name,n_tokens,token_pieces,prompt
+size_dominance,Elefant/Vogel,big,,Elefant,2,ĠEle|fant,Ein riesiger Elefant und ein winziger Vogel stehen auf einer Wiese.
+size_dominance,Elefant/Vogel,small,,Vogel,2,ĠVog|el,Ein riesiger Elefant und ein winziger Vogel stehen auf einer Wiese.
+size_dominance,Lastwagen/Fahrrad,big,,Lastwagen,3,ĠLast|w|agen,Ein großer Lastwagen und ein kleines Fahrrad stehen auf der Straße.
+size_dominance,Lastwagen/Fahrrad,small,,Fahrrad,3,ĠFah|rr|ad,Ein großer Lastwagen und ein kleines Fahrrad stehen auf der Straße.
+size_dominance,Haus/Blume,big,,Haus,1,ĠHaus,Ein riesiges Haus und eine winzige Blume stehen auf einer Wiese.
+size_dominance,Haus/Blume,small,,Blume,2,ĠBl|ume,Ein riesiges Haus und eine winzige Blume stehen auf einer Wiese.
+size_dominance,Baum/Pilz,big,,Baum,1,ĠBaum,Ein riesiger Baum und ein winziger Pilz stehen auf einer Wiese.
+size_dominance,Baum/Pilz,small,,Pilz,2,ĠPil|z,Ein riesiger Baum und ein winziger Pilz stehen auf einer Wiese.
+size_dominance,Bus/Roller,big,,Bus,1,ĠBus,Ein riesiger Bus und ein winziger Roller stehen auf der Straße.
+size_dominance,Bus/Roller,small,,Roller,1,ĠRoller,Ein riesiger Bus und ein winziger Roller stehen auf der Straße.
+size_dominance,Schiff/Ente,big,,Schiff,1,ĠSchiff,Ein riesiges Schiff und eine winzige Ente sind auf dem Wasser.
+size_dominance,Schiff/Ente,small,,Ente,2,ĠEnt|e,Ein riesiges Schiff und eine winzige Ente sind auf dem Wasser.
+length,Eimer/Feuerlöscher,short,short_first,Eimer,2,ĠE|imer,Ein Eimer und ein Feuerlöscher stehen nebeneinander auf dem Boden.
+length,Eimer/Feuerlöscher,long,short_first,Feuerlöscher,4,ĠFe|uer|lÃ¶s|cher,Ein Eimer und ein Feuerlöscher stehen nebeneinander auf dem Boden.
+length,Eimer/Feuerlöscher,short,long_first,Eimer,2,ĠE|imer,Ein Feuerlöscher und ein Eimer stehen nebeneinander auf dem Boden.
+length,Eimer/Feuerlöscher,long,long_first,Feuerlöscher,4,ĠFe|uer|lÃ¶s|cher,Ein Feuerlöscher und ein Eimer stehen nebeneinander auf dem Boden.
+length,Vase/Kaffeemaschine,short,short_first,Vase,2,ĠV|ase,Eine Vase und eine Kaffeemaschine stehen nebeneinander auf einem Tisch.
+length,Vase/Kaffeemaschine,long,short_first,Kaffeemaschine,4,ĠK|affe|emas|chine,Eine Vase und eine Kaffeemaschine stehen nebeneinander auf einem Tisch.
+length,Vase/Kaffeemaschine,short,long_first,Vase,2,ĠV|ase,Eine Kaffeemaschine und eine Vase stehen nebeneinander auf einem Tisch.
+length,Vase/Kaffeemaschine,long,long_first,Kaffeemaschine,4,ĠK|affe|emas|chine,Eine Kaffeemaschine und eine Vase stehen nebeneinander auf einem Tisch.
+length,Koffer/Werkzeugkasten,short,short_first,Koffer,2,ĠK|offer,Ein Koffer und ein Werkzeugkasten stehen nebeneinander auf dem Boden.
+length,Koffer/Werkzeugkasten,long,short_first,Werkzeugkasten,5,ĠWerk|zeug|k|ast|en,Ein Koffer und ein Werkzeugkasten stehen nebeneinander auf dem Boden.
+length,Koffer/Werkzeugkasten,short,long_first,Koffer,2,ĠK|offer,Ein Werkzeugkasten und ein Koffer stehen nebeneinander auf dem Boden.
+length,Koffer/Werkzeugkasten,long,long_first,Werkzeugkasten,5,ĠWerk|zeug|k|ast|en,Ein Werkzeugkasten und ein Koffer stehen nebeneinander auf dem Boden.
+spelling_variant,Eimer/Feuerlöscher,long,,Feuerlöscher,4,ĠFe|uer|lÃ¶s|cher,Ein Eimer und ein Feuerlöscher stehen nebeneinander auf dem Boden.
+spelling_variant,Eimer/Feuerlöscher,long,,Feuerloescher,5,ĠFe|uer|lo|es|cher,Ein Eimer und ein Feuerloescher stehen nebeneinander auf dem Boden.

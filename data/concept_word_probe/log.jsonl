@@ -1,0 +1,15 @@
+{"event": "environment", "torch_version": "2.10.0+cu126", "diffusers_version": "0.37.1", "cuda_available": true, "device_name": "Tesla V100-PCIE-16GB"}
+{"event": "hooks_registered", "count": 5, "expected": 5}
+{"event": "single_stream_hooks_registered", "count": 20, "expected": 20}
+{"event": "image_generated", "pair_idx": 0, "role": "male", "seed": 0, "prompt": "Ein Mann repariert einen Motor in der Werkstatt."}
+{"event": "image_generated", "pair_idx": 0, "role": "male", "seed": 1000, "prompt": "Ein Mann repariert einen Motor in der Werkstatt."}
+{"event": "image_generated", "pair_idx": 0, "role": "male", "seed": 2000, "prompt": "Ein Mann repariert einen Motor in der Werkstatt."}
+{"event": "image_generated", "pair_idx": 0, "role": "female", "seed": 0, "prompt": "Eine Frau repariert einen Motor in der Werkstatt."}
+{"event": "image_generated", "pair_idx": 0, "role": "female", "seed": 1000, "prompt": "Eine Frau repariert einen Motor in der Werkstatt."}
+{"event": "image_generated", "pair_idx": 0, "role": "female", "seed": 2000, "prompt": "Eine Frau repariert einen Motor in der Werkstatt."}
+{"event": "image_generated", "pair_idx": 1, "role": "male", "seed": 0, "prompt": "Ein Mann arbeitet in einem B\u00fcro am Computer."}
+{"event": "image_generated", "pair_idx": 1, "role": "male", "seed": 1000, "prompt": "Ein Mann arbeitet in einem B\u00fcro am Computer."}
+{"event": "image_generated", "pair_idx": 1, "role": "male", "seed": 2000, "prompt": "Ein Mann arbeitet in einem B\u00fcro am Computer."}
+{"event": "image_generated", "pair_idx": 1, "role": "female", "seed": 0, "prompt": "Eine Frau arbeitet in einem B\u00fcro am Computer."}
+{"event": "image_generated", "pair_idx": 1, "role": "female", "seed": 1000, "prompt": "Eine Frau arbeitet in einem B\u00fcro am Computer."}
+{"event": "image_generated", "pair_idx": 1, "role": "female", "seed": 2000, "prompt": "Eine Frau arbeitet in einem B\u00fcro am Computer."}
